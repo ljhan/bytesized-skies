@@ -1,3 +1,2 @@
 # bytesized-skies
-@bytesized_skies
-Tiny emoji skies.  Twitter bot written in Tracery on Cheap Bots, Done Quick!
+Tiny emoji skies.  Twitter bot (@bytesized_skies) written in Tracery on Cheap Bots, Done Quick!

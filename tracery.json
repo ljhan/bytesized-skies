@@ -1,0 +1,88 @@
+{
+	"origin": ["#day1#\n#day2#\n#day2#\n#day2#", "#night1#\n#night2#\n#night2#\n#night2#", "#storm1#\n#storm2#\n#storm2#\n#storm2#"],
+	
+	"day1": [
+		"#sun#       ",
+		" #sun#      ",
+		"  #sun#     ",
+		"   #sun#    ",
+		"    #sun#   ",
+		"     #sun#  ",
+		"      #sun# ",
+		"       #sun#"
+	],
+
+	"day2": [
+		"#cloud#  #cloud#    ",
+		"     #cloud#  ",
+		"#cloud#  #cloud#  #cloud# ",
+		"    #cloud#   ",
+		"      #cloud# #cloud#",
+		"   #cloud#  #misc# ",
+		"  #misc#  #cloud#  ",
+		"#cloud# #misc#  #cloud#  "
+	],
+
+	"night1": [
+		"#moon#       ",
+		" #moon#      ",
+		"  #moon#     ",
+		"   #moon#    ",
+		"    #moon#   ",
+		"     #moon#  ",
+		"      #moon# ",
+		"       #moon#"
+	],
+
+	"night2": [
+		"#star#  #star#    ",
+		"     #star#  ",
+		"#star#  #star#  #star# ",
+		"    #star#   ",
+		"      #star# #star#",
+		"   #star#  #misc# ",
+		"  #misc#  #star#  ",
+		"#star# #misc#  #star#  "
+	],
+
+	"storm1": [
+		"#cloud# #cloud# #cloud# #cloud# ",
+		"#cloud##cloud##cloud##cloud##cloud##cloud#  "
+	],
+
+	"storm2": [
+		" #precipitation# #precipitation# #storm# #precipitation#",
+		"#storm# #precipitation# #storm# #storm# ",
+		"  #storm#  #precipitation# #precipitation#"
+	],
+
+	"sun": [
+		"🌞", "☀️", "⛅️"
+	],
+
+	"moon": [
+		"🌝", "🌛 ", "🌜", "🌙"
+	],
+
+	"star": [
+		"⭐️", "🌟", "💫", "✨", "☄"
+	],
+
+	"precipitation": [
+		"❄️", "💧", "💦"
+	],
+
+	"cloud": [
+		"☁️"
+	],
+
+	"storm": [
+		"⚡️"
+	],
+
+	"misc": [
+		"🚀", "✈️", "🎈", "🌈"
+	] 
+
+}
+
